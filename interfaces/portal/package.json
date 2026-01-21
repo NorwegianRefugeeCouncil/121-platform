@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^19.2.12",
-    "@angular/cli": "^19.2.12",
+    "@angular/cli": "^21.1.0",
     "@angular/compiler-cli": "^19.2.11",
     "@angular/localize": "^19.2.11",
     "@azure/static-web-apps-cli": "^2.0.6",
